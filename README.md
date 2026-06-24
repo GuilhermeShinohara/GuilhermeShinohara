@@ -101,6 +101,3 @@ Sistema de análise e gestão de incidentes com foco em modelagem de processos, 
 
 ---
 
-<p align="center">
-  <i>Aberto a oportunidades de estágio em desenvolvimento de software e cloud computing.</i>
-</p>
